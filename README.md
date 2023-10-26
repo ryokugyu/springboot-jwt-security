@@ -1,0 +1,1 @@
+JWT authentication mechanism using Sprint Boot 3.1.5 and Spring Security
